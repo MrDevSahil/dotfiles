@@ -1,1 +1,0 @@
-/home/sahilsway/.tmux.conf
