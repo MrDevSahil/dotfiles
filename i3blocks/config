@@ -24,6 +24,6 @@ interval=2
 color=#cdd6f4
 
 [time]
-command=date "󰃰 +%d %b %H:%M"
-interval=5
+command=date "+󰃰 %d %b %H:%M"
 color=#cdd6f4
+interval=5
